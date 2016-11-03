@@ -1,0 +1,16 @@
+
+table.tb1{
+    border-collapse:collapse;
+    width:500px;
+    margin:10px 0;
+}
+table.tb1 th,table.tb1 td{
+    border:1px solid #ccc;
+    text-align: center;
+}
+table.tb1 tr.hiddenTr{
+    display: none;
+}
+table.tb2{
+    width:250px;
+}
